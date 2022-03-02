@@ -6,6 +6,6 @@ Hello World
 添加的一些简单的测试代码
 
 Hi
-Thank you very much
+Thank you
 添加的正式代码
 change casually
