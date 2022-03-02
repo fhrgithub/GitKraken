@@ -1,6 +1,10 @@
-!*.md
+!.gitignore
+
+/666/
+!/666/1.md
+!/666/2.txt
 
 garabge.txt
-666/
+
 777/1.txt
 
